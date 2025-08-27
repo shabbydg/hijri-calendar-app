@@ -1,0 +1,6 @@
+package com.example.hijri_calendar_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
